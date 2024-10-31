@@ -1,0 +1,19 @@
+Olá {usuario}, seja Bem vindo a AZZAS2154, o time de TI estara aqui sempre para lhe ajudar com o que for preciso! 
+
+esta em anexo um ppt para lhe auxiliar nesse inicio com alguns detalhes importantes que é preciso seguir como abrir chamados, authenticar
+com nosso sistema, e até mesmo a maneira de entrar em contato com nosso chatbot pelo whatsApp. estamos a disposição!
+
+Você aceitou os termos de uso da máquina '{hostname}'.
+
+-seu usuario: {usuario}
+- seu E-mail: {emailUsuario}
+- Nome do seu Computador: {hostname}
+- Serial Number dele: {serialNumber}
+- Modelo: {model}
+
+
+
+Por favor, caso essa informação esteja equivocada,
+envie um e-mail para: suportetisp@arezzo.com.br em até 15 dias após o recebimento do e-mail.
+
+Obrigado!
