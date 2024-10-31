@@ -1,0 +1,15 @@
+Olá {usuario},
+
+Você aceitou os termos de uso da máquina '{hostname}'.
+
+Detalhes da Máquina:
+- Nome do Computador: {hostname}
+- Serial Number: {serialNumber}
+- Modelo: {model}
+- E-mail do Usuário: {emailUsuario}
+
+
+Por favor, caso essa informação esteja equivocada,
+envie um e-mail para: suportetisp@arezzo.com.br em até 15 dias após o recebimento do e-mail.
+
+Obrigado!

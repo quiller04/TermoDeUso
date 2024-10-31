@@ -1,0 +1,8 @@
+O usuário '{usuario}' aceitou os termos de uso da máquina '{hostname}'.
+
+Detalhes da Máquina:
+- Nome do Computador: {hostname}
+- Serial Number: {serialNumber}
+- Modelo: {model}
+- E-mail do Usuário: {emailUsuario}
+- Nome de usuario: {usuario}
