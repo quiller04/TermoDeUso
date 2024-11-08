@@ -163,7 +163,7 @@ function ExibirTermoDeUso {
 
             # Preencher e enviar e-mail ao suporte
             $conteudoEmailSuporte = PreencherCampos -filePath "$env:USERPROFILE\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\termo1\email_suporte.txt" -substituicoes $substituicoes
-            EnviarEmail -de "termodeuso@azzas2154.com.br" -para "termodeusoti@azzas2154.com.br" -assunto "Aceite de Termo de Uso - $usuario" -corpo $conteudoEmailSuporte
+            EnviarEmail -de "termodeuso@azzas2154.com.br" -para "termotisp@arezzo.com.br" -assunto "Aceite de Termo de Uso - $usuario" -corpo $conteudoEmailSuporte
 
             # Fechar o formulário após envio dos e-mails
             $form.Close()
